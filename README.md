@@ -5,7 +5,7 @@ como criar receita e inclusão de imagens dentro do HTML
 <!doctype html>
 <html>
     <head>
-        <meta charset="ISO-8859-2">
+ 
         <title>"Pablo Rodrigues Receitas"</title>
 
     </head>
